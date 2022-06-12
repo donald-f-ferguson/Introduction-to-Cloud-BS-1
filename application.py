@@ -131,6 +131,7 @@ welcome = """
     <p></p>
     <p>This deployed with a GitHub action! See the
     <a href="https://medium.com/seamless-cloud/automated-deployment-to-aws-elastic-beanstalk-using-github-actions-888757a6eeb0">
+    Medium Article</a> with explanations!
     </p>
   </div>
   
