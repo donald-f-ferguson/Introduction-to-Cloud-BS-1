@@ -128,6 +128,10 @@ welcome = """
     <p>Your first <b>(Modified)</b> AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud.</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform.</p>
     <p>Try the path /api/health and also look at the code. This shows that <b>Flask is working!<b>
+    <p></p>
+    <p>This deployed with a GitHub action! See the
+    <a href="https://medium.com/seamless-cloud/automated-deployment-to-aws-elastic-beanstalk-using-github-actions-888757a6eeb0">
+    </p>
   </div>
   
   <div class="linksColumn"> 
