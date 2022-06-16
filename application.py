@@ -133,6 +133,11 @@ welcome = """
     <a href="https://medium.com/seamless-cloud/automated-deployment-to-aws-elastic-beanstalk-using-github-actions-888757a6eeb0">
     Medium Article</a> with explanations!
     </p>
+    <p>
+    <b>Class demos are cool!</b>
+    </p>
+    <p>
+    <i>Automated deployment rocks.</i>
   </div>
   
   <div class="linksColumn"> 
